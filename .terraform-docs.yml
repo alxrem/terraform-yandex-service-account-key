@@ -1,0 +1,6 @@
+content: |-
+  {{ .Inputs }}
+  
+  {{ .Outputs }}
+output:
+  file: README.md
